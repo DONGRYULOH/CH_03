@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <algorithm> // sort()를 위해 필요
 using namespace std;
-
+   
 template<typename T>
 class SimpleVector {
 public:
